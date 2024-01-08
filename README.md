@@ -1,1 +1,3 @@
 # Pregnancy-With-Substance-Use-Disorder-in-Appalachia
+
+Our primary goal with this analysis conducted for the project is to submit it for research project grants. This analysis delves into the health outcomes of pregnant women grappling with substance abuse in the Appalachian region, with a specific focus on West Virginia. Examining a range of health parameters, this study aims to shed light on the impact of substance abuse during pregnancy on maternal and fetal well-being. By scrutinizing data from diverse health indicators, the analysis strives to provide valuable insights into the unique challenges faced by this demographic, contributing to a more comprehensive understanding of maternal health in the context of substance use in West Virginia's Appalachian setting
